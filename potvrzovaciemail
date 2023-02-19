@@ -154,9 +154,9 @@
           <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
       <![endif]-->
     <div style="margin:0px auto;max-width:600px;">
-      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
         <tbody>
-          <tr>
+         <tr><tr>
             <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;">
               <!--[if mso | IE]>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
@@ -182,10 +182,13 @@
                       <div style="font-family:Montserrat, Helvetica, Arial, sans-serif;font-size:18px;font-weight:400;line-height:24px;text-align:justify;color:#dddddd;">
                         <p style="margin: 0;">Dobrý den,</p>
                         <br>
-                        <p style="margin: 0;">potvrzujeme přijetí Vaší platby ve 605 Kč a registraci na webovém portálu madeinczech.org.</p>
+                        <p style="margin: 0;">potvrzujeme přijetí Vaší platby ve 605 Kč a registraci na webovém portálu K začlenění do naší platformy využijte registrační portál <a href="https://www.madeinczech.org"><b><span style="color:white; text-decoration: underline black; font-weight: 400">MADEIN<span style="color:red; text-decoration: underline black; font-weight: 400;">CZECH</span></b></a>..</p>
                         <br>
                         <p style="margin: 0;">Tímto bychom Vás chtěli uvítat v rodině <b><span style="color:white; font-weight: 400">MADEIN<span style="color:red; font-weight: 400;">CZECH</span></b>.</p>
                         <p style="margin: 0;">Vaší důvěry si velice vážíme a věříme, že naše spolupráce povede k dalším úspěchům Vašeho podnikání.</p>
+                        <br>
+                        <p style="margin: 0;">Vaší důvěry si velice vážíme a věříme, že naše spolupráce povede k dalším úspěchům Vašeho podnikání.K začlenění do naší platformy využijte registrační portál K začlenění do naší platformy využijte registrační portál <a href="https://www.madeinczech.org/registrace" style="color:red; font-weight:bold; text-decoration: underline red;">ZDE</a>.
+Najdete tam řadu otázek a možností pro nahrání souborů, které jsou označeny příslušnými písmeny a čísly, která Vám ukáží, kde jaký text nebo obrázek bude. Celý proces pro přehlednost doporučujeme provést přes počítač.</p>
                         <br>
                         <p style="margin: 0;">V případě jakýchkoliv nejasností nebo potíží nás neváhejte kontaktovat. V nejbližších dnech se Vám ozve kontaktní osoba, která se o Vás bude starat v průběhu naší spolupráce a pomůže Vám se začleněním do našeho portálu.</p>
                         <br>
@@ -194,7 +197,9 @@
                       <div style="font-family:Montserrat, Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#999999;">
                         <br>
                         <br>
-                        <p style="margin: 0;">Za tým <b>MADEIN<span style="color:red">CZECH</span> </b> <br>Tomáš Zderadička<br>+420 727 821 483</p>
+                        
+                        <p>S pozdravem</p>
+                        <p style="margin: 0;">Tým <b>MADEIN<span style="color:red">CZECH</span> </b></p>
                       </div>
                     </td>
                   </tr>
